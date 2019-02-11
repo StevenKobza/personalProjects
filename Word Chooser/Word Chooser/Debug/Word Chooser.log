@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\docsandstuff\documents\stevenkobzacoding\randomcodingprojects\word chooser\word chooser\source.cpp(177): warning C4018: '<': signed/unsigned mismatch
+d:\docsandstuff\documents\stevenkobzacoding\randomcodingprojects\word chooser\word chooser\source.cpp(183): warning C4018: '<': signed/unsigned mismatch
+  Word Chooser.vcxproj -> D:\docsAndStuff\Documents\StevenKobzaCoding\RandomCodingProjects\Word Chooser\Debug\Word Chooser.exe
