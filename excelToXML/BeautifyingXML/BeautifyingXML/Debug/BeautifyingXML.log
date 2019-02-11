@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\anaki\documents\stevenkobzacoding\exceltojson\beautifyingxml\beautifyingxml\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\anaki\documents\stevenkobzacoding\exceltojson\beautifyingxml\beautifyingxml\source.cpp(47): warning C4101: 'tabDown': unreferenced local variable
+  BeautifyingXML.vcxproj -> D:\anaki\Documents\StevenKobzaCoding\ExcelToJSON\BeautifyingXML\Debug\BeautifyingXML.exe
